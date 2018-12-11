@@ -5,8 +5,24 @@ Intro to programming
 Basic print commands
 Input through interactive mode
 
-Flowchart
-Definition
-Example
 
+Flowchart    [~20 min]
+- Definition
+- Example
+
+Programming [~30 min]
+- Definition
+- Applications
+- Uses
+- Examples
+
+Small Demo coding [~10 min]
+[want to give some selenium demo for automatic web interaction with code if possible]
+Print commands in a laptop which python already installed
+Input through interactive mode
+
+Installation and setup [~50 mins]
+Start installation of python in windows 
+install pycharm community edition
+print commands
 
