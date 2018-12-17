@@ -1,0 +1,33 @@
+### TOOLS and OS
+### Intro to Flow chart
+### Intro to programming
+### Basic print commands
+### Input through interactive mode
+
+
+#### Flowchart    [~20 min]
+- Definition
+- Example-1: Process of installing an app onto mobile phone 
+- Example-2: Process of creating a GMAIL account
+- Example-3: Process of recovering password using FORGOT PASSWORD option
+
+#### Programming [~30 min]
+- Definition
+- Applications
+- Uses
+- Examples
+- name = input("ENTER A NAME: ")
+  print("Hello" + name)
+  
+- Create possible user input systems using simple python print command.
+
+
+#### Small Demo coding [~10 min]
+[want to give some selenium demo for automatic web interaction with code if possible]
+Print commands in a laptop which python already installed
+Input through interactive mode
+
+#### Installation and setup [~50 mins]
+Start installation of python in windows 
+install pycharm community edition
+print commands
