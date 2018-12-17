@@ -1,8 +1,8 @@
 ### Week 1 Highlights
 
 #### TOOLS and OS
-#### Intro to Flowcharts
-#### Intro to programming
-#### Basic print commands
+#### Introduction to Flowcharts
+#### Introduction to Programming
+#### Basic print statements and commands
 #### Input through interactive mode
 
